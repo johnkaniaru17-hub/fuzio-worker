@@ -1,8 +1,9 @@
-name = "quiet-hat-e199"
+
+name = "fuzio-worker"
 main = "worker.js"
 compatibility_date = "2024-10-01"
 
 [[d1_databases]]
 binding = "FUZIO_DB"
 database_name = "fuzio-db"
-database_id = "123"
+database_id = "0ceec27a-7858-49c2-ba0c-71d0116e8caa"
